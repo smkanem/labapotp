@@ -1,9 +1,8 @@
 lojka
 povorejka
-microvolnovka
+ladapriora
 podzariadka
 stol
-stul
 klaviatura
 tarelka
 mish
