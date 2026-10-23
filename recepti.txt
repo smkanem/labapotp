@@ -1,5 +1,5 @@
 luk morkov kartoshka yica
-salat
+ogurec
 pomidori
 makaroni
 grechka
@@ -7,5 +7,5 @@ vaslo
 maslo
 kaslo
 paslo
-gaslo
+
 
