@@ -1,4 +1,4 @@
-luk morkov kartoshka yica
+luk morkov
 ogurec
 pomidori
 makaroni
@@ -7,5 +7,6 @@ vaslo
 maslo
 kaslo
 paslo
-
+yica
+kartoshka
 
